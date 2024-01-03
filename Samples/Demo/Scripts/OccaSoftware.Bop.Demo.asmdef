@@ -1,0 +1,16 @@
+{
+    "name": "OccaSoftware.Bop.Demo",
+    "rootNamespace": "OccaSoftware.Bop.Demo",
+    "references": [
+        "GUID:a02d830a067e86349a5b9caa146c838f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
